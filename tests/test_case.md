@@ -21,4 +21,4 @@ Pengujian dirancang untuk memastikan program dapat menghitung luas dan keliling 
 
 ## Status Pengujian
 
-Seluruh test case di atas masih berupa rancangan pengujian. Hasil aktual akan dicatat setelah program selesai dibuat dan dijalankan.
+Seluruh test case di atas masih berupa rancangan pengujian, hasil aktual akan dicatat setelah program selesai dibuat dan dijalankan.
