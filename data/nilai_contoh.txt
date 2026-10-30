@@ -1,0 +1,6 @@
+# Contoh ukuran bangun datar
+
+persegi: 5
+persegi_panjang: 6,4
+segitiga: 3,4,5
+lingkaran: 7
