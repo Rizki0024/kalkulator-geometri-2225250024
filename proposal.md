@@ -246,7 +246,7 @@ git push
 ```
 
 **Link Repository:**  
-(Diisi setelah repository GitHub dibuat).
+(https://github.com/Rizki0024/kalkulator-geometri-2225250024.git)
 
 ## 13. Kesimpulan
 
