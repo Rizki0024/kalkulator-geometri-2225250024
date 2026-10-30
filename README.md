@@ -22,9 +22,9 @@ Kalkulator Geometri merupakan program sederhana menggunakan bahasa Python yang d
 
 ## Teknologi
 
-- Bahasa pemrograman: Python
-- Editor: Visual Studio Code
-- Version control: Git dan GitHub
+- Bahasa pemrograman: Python.
+- Editor: Visual Studio Code.
+- Version control: Git dan GitHub.
 
 ## Struktur Folder
 
