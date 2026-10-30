@@ -246,7 +246,7 @@ git push
 ```
 
 **Link Repository:**  
-(Diisi setelah repository GitHub dibuat)
+(Diisi setelah repository GitHub dibuat).
 
 ## 13. Kesimpulan
 
