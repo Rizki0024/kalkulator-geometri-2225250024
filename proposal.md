@@ -253,3 +253,81 @@ git push
 Proyek Kalkulator Geometri merupakan program sederhana berbasis Python yang dirancang untuk membantu menghitung luas dan keliling beberapa bangun datar. Program ini memiliki empat pilihan bangun datar dengan fitur validasi input dan pengulangan perhitungan.
 
 Dengan ruang lingkup yang telah ditentukan, proyek ini diharapkan dapat diselesaikan secara individu sesuai waktu yang tersedia. Rancangan ini akan menjadi pedoman dalam proses pembuatan, pengujian, dan dokumentasi program pada pertemuan berikutnya.
+
+
+**Pertemuan 15**
+# PROPOSAL PROYEK KALKULATOR GEOMETRI
+
+## 1. Judul Proyek
+
+Kalkulator Geometri Menggunakan Bahasa Pemrograman Python.
+
+## 2. Latar Belakang
+
+Geometri merupakan salah satu bidang matematika yang mempelajari bentuk, ukuran, dan sifat bangun. Dalam pembelajaran matematika, perhitungan luas dan keliling bangun datar merupakan materi dasar yang penting untuk dipahami.
+
+Perhitungan tersebut dapat dilakukan dengan bantuan program komputer. Oleh karena itu, dibuat program Kalkulator Geometri menggunakan bahasa pemrograman Python untuk membantu melakukan perhitungan luas dan keliling beberapa bangun datar secara sederhana.
+
+## 3. Tujuan Proyek
+
+1. Membuat program untuk menghitung luas dan keliling bangun datar.
+2. Menerapkan penggunaan fungsi dalam Python.
+3. Menerapkan konsep modularisasi program.
+4. Menggunakan input dan output untuk berinteraksi dengan pengguna.
+5. Menerapkan validasi input agar program dapat menangani data yang tidak sesuai.
+
+## 4. Ruang Lingkup
+
+Program memiliki empat pilihan bangun datar:
+
+1. Persegi.
+2. Persegi panjang.
+3. Segitiga.
+4. Lingkaran.
+
+Setiap pilihan menyediakan perhitungan luas dan keliling.
+
+## 5. Metode dan Rumus Perhitungan
+
+### A. Persegi
+
+- Luas = sisi × sisi.
+- Keliling = 4 × sisi.
+
+### B. Persegi Panjang
+
+- Luas = panjang × lebar.
+- Keliling = 2 × (panjang + lebar).
+
+### C. Segitiga
+
+- Keliling = a + b + c.
+- Luas dihitung menggunakan rumus Heron.
+
+### D. Lingkaran
+
+- Luas = 3,14 × r².
+- Keliling = 2 × 3,14 × r.
+
+## 6. Perancangan Program
+
+Program dirancang menggunakan pendekatan modular. Setiap modul mempunyai tugas yang berbeda.
+
+- `main.py`: mengatur jalannya program.
+- `analisis.py`: melakukan perhitungan geometri.
+- `data_io.py`: menangani input dan output.
+- `utilitas.py`: menangani validasi dan fungsi pendukung.
+
+## 7. Teknologi
+
+- Python sebagai bahasa pemrograman.
+- Visual Studio Code sebagai editor kode.
+- Git dan GitHub untuk pengelolaan versi dan penyimpanan proyek.
+
+## 8. Hasil yang Diharapkan
+
+Program dapat menerima input dari pengguna, menghitung luas dan keliling empat bangun datar, menampilkan hasil perhitungan, serta menangani input yang tidak valid.
+
+## 9. Penutup
+
+Melalui proyek ini, diharapkan konsep dasar algoritma dan pemrograman dapat diterapkan dalam pembuatan program sederhana yang berkaitan dengan materi matematika, khususnya geometri.

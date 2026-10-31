@@ -22,3 +22,31 @@ Pengujian dirancang untuk memastikan program dapat menghitung luas dan keliling 
 ## Status Pengujian
 
 Seluruh test case di atas masih berupa rancangan pengujian, hasil aktual akan dicatat setelah program selesai dibuat dan dijalankan.
+
+**Pertemuan 15**
+# TEST CASE KALKULATOR GEOMETRI
+
+## 1. Tujuan Pengujian
+
+Pengujian dilakukan untuk memastikan seluruh fitur Kalkulator Geometri berjalan sesuai dengan fungsi yang telah dibuat.
+
+## 2. Daftar Pengujian
+
+| No. | Fitur | Input | Hasil yang Diharapkan | Status |
+|---|---|---|---|---|
+| 1 | Persegi | Sisi = 5 | Luas = 25, Keliling = 20 | Berhasil |
+| 2 | Persegi Panjang | Panjang = 6, Lebar = 4 | Luas = 24, Keliling = 20 | Berhasil |
+| 3 | Segitiga | Sisi = 3, 4, 5 | Luas = 6, Keliling = 12 | Berhasil |
+| 4 | Lingkaran | Jari-jari = 7 | Luas = 153.86, Keliling = 43.96 | Berhasil |
+| 5 | Validasi angka negatif | -7 | Program menolak angka | Berhasil |
+| 6 | Validasi input huruf | abc | Program menolak input | Berhasil |
+| 7 | Validasi segitiga | Sisi = 2, 3, 8 | Program menolak sisi tidak valid | Berhasil |
+| 8 | Keluar program | Pilihan = 0 | Program berhenti | Berhasil |
+
+## 3. Kesimpulan Pengujian
+
+Berdasarkan pengujian yang telah dilakukan, seluruh fitur Kalkulator Geometri dapat berjalan sesuai dengan hasil yang diharapkan.
+
+Program mampu menghitung luas dan keliling bangun datar, menerima input pengguna, melakukan validasi input, serta menangani pilihan keluar dari program.
+
+Dengan demikian, program Kalkulator Geometri telah memenuhi pengujian fungsional dasar.
